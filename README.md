@@ -1,7 +1,7 @@
 # crddemo : Kubernetes 自定义控制器Demo例子
 
 
-## 基本目录
+## 基本
 
 ```bash
 ├── code-gen.sh
